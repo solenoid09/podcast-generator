@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Generator by SJ"
 author: "Solenoid"
 description: "Generates a podcast episode based on a given topic."
 runs:
